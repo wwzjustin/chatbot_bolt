@@ -53,37 +53,6 @@ Built with modern web technologies for enterprise-grade reliability:
 - **Vite** for lightning-fast development and builds
 - **OpenAI API** integration for state-of-the-art AI capabilities
 
-## Getting Started
-
-1. **Clone the repository**
-   ```bash
-   git clone [repository-url]
-   cd ai-chat-assistant
-   ```
-
-2. **Install dependencies**
-   ```bash
-   npm install
-   ```
-
-3. **Configure environment**
-   ```bash
-   cp .env.example .env
-   # Add your OpenAI API key to .env
-   ```
-
-4. **Start development server**
-   ```bash
-   npm run dev
-   ```
-
-## Deployment
-
-Ready for production deployment on any modern hosting platform:
-- Netlify (recommended)
-- Vercel
-- AWS S3 + CloudFront
-- Any static hosting service
 
 ## Why Choose AI Chat Assistant?
 
